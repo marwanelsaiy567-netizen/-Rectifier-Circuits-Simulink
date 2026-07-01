@@ -16,7 +16,7 @@ Department of smart grid power Engineering
 
 ##  Software Requirements
 
-- MATLAB R2022b (or later)
+- MATLAB R2022b 
 - Simulink
 - Simscape Electrical / Simscape Power Systems
 
